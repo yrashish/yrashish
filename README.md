@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**yrashish/yrashish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ashish Choudhary a Software Engineer based out of Pune, India. Father, Husband and I also like learning and sharing my knowledge about emerging new technologies. Java, BigData, Cloud enthusiast.
 
-Here are some ideas to get you started:
+You can see what I am currently up to on [here](https://ashish-choudhary.medium.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Let's get in touch
+
+- Twitter: [profile](https://twitter.com/iASHeeesh)
+- Blog: [stories](https://ashish-choudhary.medium.com/)
+- LinkedIn: [profile](inkedin.com/in/ashish-choudhary)
+- Dev: [things I am discussing](https://dev.to/yrashish)
+- Dzone: [blogs publsihed so far](https://dzone.com/users/4465774/userac.html)
+- Hackernoon: [blogs publsihed so far](https://hackernoon.com/u/iashish)
