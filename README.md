@@ -13,3 +13,5 @@ You can see what I am currently up to on [here](https://ashish-choudhary.medium.
 - Dzone: [blogs publsihed so far](https://dzone.com/users/4465774/userac.html)
 - Hackernoon: [blogs publsihed so far](https://hackernoon.com/u/iashish)
 - Buy me a coffee: [If you like reading my blogs](https://www.buymeacoffee.com/meashish)
+
+[![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=yrashish)](https://github.com/yrashish/github-readme-stats)
