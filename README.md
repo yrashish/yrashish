@@ -8,7 +8,7 @@ You can see what I am currently up to on [here](https://ashish-choudhary.medium.
 
 - Twitter: [profile](https://twitter.com/iASHeeesh)
 - Medium: [stories](https://ashish-choudhary.medium.com/)
-- Personal: [Blog](https://ashishtechmill.com/)
+- Personal: [blog](https://ashishtechmill.com/)
 - LinkedIn: [profile](https://www.linkedin.com/in/ashish-choudhary)
 - Dev: [things I am discussing](https://dev.to/yrashish)
 - Dzone: [blogs published so far](https://dzone.com/users/4465774/userac.html)
