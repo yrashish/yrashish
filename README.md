@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=yrashish)
+
+
 I am Ashish Choudhary a Software Engineer based out of Pune, India. Father, Husband, and I also like learning and sharing my knowledge about emerging new technologies. Java, BigData and Cloud enthusiast.
 
 You can see what I am currently up to on [here](https://ashish-choudhary.medium.com/).
