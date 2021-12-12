@@ -12,11 +12,11 @@ You can see what I am currently up to on [here](https://twitter.com/iASHeeesh).
 - Twitter: [profile](https://twitter.com/iASHeeesh)
 - Medium: [stories](https://ashish-choudhary.medium.com/)
 - Personal: [blog](https://ashishtechmill.com/)
-- Book: [Effortless Cloud-Native App Development Using Skaffold](https://www.amazon.com/Effortless-Cloud-Native-Development-Using-Skaffold/dp/1801077118)
 - LinkedIn: [profile](https://www.linkedin.com/in/ashish-choudhary)
 - Dev: [things I am discussing](https://dev.to/yrashish)
 - Dzone: [blogs published so far](https://dzone.com/users/4465774/userac.html)
 - Hackernoon: [blogs published so far](https://hackernoon.com/u/iashish)
 - Buy me a coffee: [If you like reading my blogs](https://www.buymeacoffee.com/meashish)
+- Book: [Effortless Cloud-Native App Development Using Skaffold](https://www.amazon.com/Effortless-Cloud-Native-Development-Using-Skaffold/dp/1801077118)
 
 [![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=yrashish)](https://github.com/yrashish/github-readme-stats)
