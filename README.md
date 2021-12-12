@@ -12,6 +12,7 @@ You can see what I am currently up to on [here](https://twitter.com/iASHeeesh).
 - Twitter: [profile](https://twitter.com/iASHeeesh)
 - Medium: [stories](https://ashish-choudhary.medium.com/)
 - Personal: [blog](https://ashishtechmill.com/)
+- Book: [Effortless Cloud-Native App Development Using Skaffold](https://www.amazon.com/Effortless-Cloud-Native-Development-Using-Skaffold/dp/1801077118)
 - LinkedIn: [profile](https://www.linkedin.com/in/ashish-choudhary)
 - Dev: [things I am discussing](https://dev.to/yrashish)
 - Dzone: [blogs published so far](https://dzone.com/users/4465774/userac.html)
